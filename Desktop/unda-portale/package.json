@@ -1,0 +1,15 @@
+{
+  "name": "unda-portale",
+  "version": "1.0.0",
+  "description": "Portale per la gestione della distribuzione musicale e pitch marketing",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo 'No build step needed'"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3"
+  }
+}
